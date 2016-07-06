@@ -1,0 +1,22 @@
+{
+  "name": "basic-vue-structure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/lite-server/bin/lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vfreitas-/basic-vue-js-structure.git"
+  },
+  "author": "Vitor Freitas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vfreitas-/basic-vue-js-structure/issues"
+  },
+  "homepage": "https://github.com/vfreitas-/basic-vue-js-structure#readme",
+  "dependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
